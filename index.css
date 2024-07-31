@@ -2,3 +2,41 @@
     margin: 0;
     padding: 0;
 }
+
+header{
+    color: 100#000000;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1e1e1e;
+}
+
+img{
+    width: 10rem;
+    height: 10rem;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/** The landing page style **/
+
+.heading > h1{
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: bold;  
+    background-color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
