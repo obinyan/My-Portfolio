@@ -26,13 +26,16 @@ a{
     color: #ffffff;
     font-size: 2rem;
     font-weight: bold;  
-    
+    font-family: "Inter", sans-serif;
 }
 
 .heading{
     background-color: #000000;
     height: 100vh;
-    width: 10vw;
+    width: 20vw;
+    margin-left: 6rem;
+    position: relative;
+    top: 4rem;
 }
 
 
