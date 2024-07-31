@@ -38,6 +38,16 @@ a{
     top: 4rem;
 }
 
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: -10rem;
+}
+
+.description{
+    margin-top: -10rem;
+}
 
 
 
