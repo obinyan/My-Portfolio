@@ -43,40 +43,43 @@ a{
     display: flex;
     flex-direction: row;
     gap: 3rem;
-    margin-top: -35rem;
-    margin-left: 28rem;
+    margin-top: -45rem;
+    margin-left: 25rem;
     background-color: #d9d9d9;
-    width: 60vw;
-    height: 5vh;
+    width: 40rem;
+    height: 10rem;
 }
 
 .nav-links > a{
     color: #000000;
     font-size: 1rem;
-    
+    margin-left: 3rem;
     text-align: center;
     align-content: center;
     font-family: "Inter", sans-serif;
 }
 
 .description{
-    margin-top: 10rem;
-    margin-left: 10rem;
+    margin-top: 15rem;
+    margin-left: 12rem;
 }
 
-.sub-description-1{
+.sub-description-1 > h2{
     font-size: 1.8rem;
     font-weight: 100;
+    color: #ffffff;
 }
 
-.sub-description-2{
+.sub-description-2 > h2{
     font-size: 2.2rem;
     font-weight: bold;
+    color: #ffffff;
 }
 
 .sub-description-3{
     margin-top: 1.5rem;
     background-color: #d8d80b;
+    width: 15rem;
 }
 
 .sub-description-3 > h2{
@@ -86,7 +89,7 @@ a{
 
 
 .description > div > h2{
-    color: #ffffff;
+    
     font-size: 2rem;
     font-family: "Inter", sans-serif;
 }
