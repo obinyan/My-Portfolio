@@ -43,10 +43,10 @@ a{
     display: flex;
     flex-direction: row;
     gap: 1rem;
-    margin-top: -50rem;
+    margin-top: -52rem;
     margin-left: 27rem;
     background-color: #d9d9d9;
-    width: 58rem;
+    width: 60rem;
     height: 10rem;
 }
 
@@ -61,7 +61,7 @@ a{
 
 .description{
     margin-top: 20rem;
-    margin-left: 11rem;
+    margin-left: 12rem;
 }
 
 .sub-description-1 > h2{
@@ -71,7 +71,7 @@ a{
 }
 
 .sub-description-2 > h2{
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-weight: bold;
     color: #ffffff;
 }
@@ -79,12 +79,14 @@ a{
 .sub-description-3{
     margin-top: 1.5rem;
     background-color: #d8d80b;
-    width: 30rem;
+    width: 27rem;
 }
 
 .sub-description-3 > h2{
     color: #000000;
     font-weight: 100;
+    text-align: center;
+    align-content: center;
 }
 
 
@@ -127,11 +129,13 @@ a{
     margin-left: 2rem;
     font-size: 2rem;
     font-weight: 100;
+    font-family: "Inter", sans-serif;
 }
 
 .sub-about-2-b > p{
     font-size: 3rem;
     font-weight: bold;
+    font-family: "Inter", sans-serif;
 }
 
 .sub-about-2-c{
@@ -141,6 +145,7 @@ a{
 .sub-about-2-c > p{
     font-size: 1.5rem;
     font-weight: 100;
+    font-family: "Inter", sans-serif;
 }
 
 
