@@ -44,9 +44,9 @@ a{
     flex-direction: row;
     gap: 1rem;
     margin-top: -52rem;
-    margin-left: 26rem;
+    margin-left: 25rem;
     background-color: #d9d9d9;
-    width: 59rem;
+    width: 60rem;
     height: 10rem;
 }
 
@@ -156,9 +156,18 @@ a{
 }
 
 .sub-work-1{
-    position: relative;
-    top: 5rem;
-    left: 10remx;
+    margin-top: -2rem;
+    justify-content: center;
+}
+
+.sub-work-1 > div > h2{
+    font-size: 3rem;
+    font-family: "Inter", sans-serif;
+}
+
+.sub-work-1 > div > h3{
+    font-size: 3rem;
+    font-family: "Inter", sans-serif;
 }
 
 .sub-work-2{
@@ -179,7 +188,6 @@ a{
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     grid-gap: 2rem;
-    align-items: center;
     justify-content: center;
     margin: 3rem;
 }
