@@ -110,12 +110,12 @@ a{
 .sub-about-1{
     position: relative;
     top: 5rem;
-    margin-left: 5rem;
+    margin-left: 8rem;
 }
 
 .sub-about-1 > img{
-    width: 25rem;
-    height: 25rem;
+    width: 35rem;
+    height: 35rem;
 }
 
 .sub-about-2{
@@ -125,17 +125,22 @@ a{
 
 .sub-about-2-a > p{
     margin-left: 2rem;
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 100;
 }
 
 .sub-about-2-b > p{
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: bold;
 }
 
 .sub-about-2-c{
     width: 25rem;
+}
+
+.sub-about-2-c > p{
+    font-size: 2rem;
+    font-weight: 100;
 }
 
 
