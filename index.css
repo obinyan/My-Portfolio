@@ -42,21 +42,35 @@ a{
 .nav-links{
     display: flex;
     flex-direction: row;
-    gap: 2.5rem;
+    gap: 3rem;
     margin-top: -35rem;
-    margin-left: 20rem;
+    margin-left: 35rem;
     background-color: #d9d9d9;
+    width: 60vw;
+    height: 5vh;
+}
+
+.nav-links > a{
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    align-content: center;
+    font-family: "Inter", sans-serif;
 }
 
 .description{
-    margin-top: -10rem;
+    /**margin-top: -10rem;**/
     margin-left: 5rem;
 }
 
 .description > div > h2{
     color: #ffffff;
     font-size: 2rem;
+    font-family: "Inter", sans-serif;
 }
+
+/** Section begins **/
 
 
 
