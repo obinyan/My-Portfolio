@@ -158,7 +158,7 @@ a{
 .sub-work-1{
     position: relative;
     top: 5rem;
-    left: 10rem;
+    left: 10remx;
 }
 
 .sub-work-2{
@@ -174,7 +174,15 @@ a{
     font-family: "Inter", sans-serif;
 }
 
-
+.sub-work-3{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    margin: 3rem;
+}
 
 
 
