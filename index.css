@@ -61,7 +61,7 @@ a{
 
 .description{
     margin-top: 10rem;
-    margin-left: 8rem;
+    margin-left: 10rem;
 }
 
 .sub-description-1{
@@ -103,6 +103,27 @@ a{
     flex-direction: row;
     gap: 2rem;
 }
+
+.sub-about-1{
+    position: relative;
+    top: 5rem;
+}
+
+.sub-about-1 > img{
+    width: 15rem;
+    height: 15rem;
+}
+
+.sub-about-2{
+    position: relative;
+    top: 7rem;
+}
+
+.sub-about-2-c{
+    width: 25rem;
+}
+
+
 
 
 
