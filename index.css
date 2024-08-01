@@ -44,7 +44,7 @@ a{
     flex-direction: row;
     gap: 3rem;
     margin-top: -35rem;
-    margin-left: 35rem;
+    margin-left: 28rem;
     background-color: #d9d9d9;
     width: 60vw;
     height: 5vh;
@@ -53,16 +53,37 @@ a{
 .nav-links > a{
     color: #000000;
     font-size: 1rem;
-    font-weight: 100;
+    
     text-align: center;
     align-content: center;
     font-family: "Inter", sans-serif;
 }
 
 .description{
-    /**margin-top: -10rem;**/
-    margin-left: 5rem;
+    margin-top: 10rem;
+    margin-left: 8rem;
 }
+
+.sub-description-1{
+    font-size: 1.8rem;
+    font-weight: 100;
+}
+
+.sub-description-2{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.sub-description-3{
+    margin-top: 1.5rem;
+    background-color: #d8d80b;
+}
+
+.sub-description-3 > h2{
+    color: #000000;
+    font-weight: 100;
+}
+
 
 .description > div > h2{
     color: #ffffff;
