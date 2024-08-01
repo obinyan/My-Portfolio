@@ -24,7 +24,7 @@ a{
 
 .heading > h1{
     color: #ffffff;
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: bold;  
     font-family: "Inter", sans-serif;
     margin-left: 6rem;
@@ -44,15 +44,15 @@ a{
     flex-direction: row;
     gap: 3rem;
     margin-top: -45rem;
-    margin-left: 25rem;
+    margin-left: 25.5rem;
     background-color: #d9d9d9;
-    width: 40rem;
+    width: 60rem;
     height: 10rem;
 }
 
 .nav-links > a{
     color: #000000;
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin-left: 3rem;
     text-align: center;
     align-content: center;
@@ -60,18 +60,18 @@ a{
 }
 
 .description{
-    margin-top: 15rem;
+    margin-top: 30rem;
     margin-left: 12rem;
 }
 
 .sub-description-1 > h2{
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     font-weight: 100;
     color: #ffffff;
 }
 
 .sub-description-2 > h2{
-    font-size: 2.2rem;
+    font-size: 3.2rem;
     font-weight: bold;
     color: #ffffff;
 }
@@ -79,7 +79,7 @@ a{
 .sub-description-3{
     margin-top: 1.5rem;
     background-color: #d8d80b;
-    width: 15rem;
+    width: 20rem;
 }
 
 .sub-description-3 > h2{
@@ -90,7 +90,7 @@ a{
 
 .description > div > h2{
     
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-family: "Inter", sans-serif;
 }
 
