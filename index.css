@@ -107,16 +107,28 @@ a{
 .sub-about-1{
     position: relative;
     top: 5rem;
+    margin-left: 5rem;
 }
 
 .sub-about-1 > img{
-    width: 15rem;
-    height: 15rem;
+    width: 25rem;
+    height: 25rem;
 }
 
 .sub-about-2{
     position: relative;
     top: 7rem;
+}
+
+.sub-about-2-a > p{
+    margin-left: 2rem;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.sub-about-2-b > p{
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 .sub-about-2-c{
