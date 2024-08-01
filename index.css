@@ -24,7 +24,7 @@ a{
 
 .heading > h1{
     color: #ffffff;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: bold;  
     font-family: "Inter", sans-serif;
     margin-left: 6rem;
@@ -35,19 +35,26 @@ a{
 .heading{
     background-color: #000000;
     height: 100vh;
-    width: 20vw;
+    width: 30vw;
     
 }
 
 .nav-links{
     display: flex;
     flex-direction: row;
-    gap: 2rem;
-    margin-top: -10rem;
+    gap: 2.5rem;
+    margin-top: -35rem;
+    margin-left: 20rem;
+    background-color: #d9d9d9;
 }
 
 .description{
     margin-top: -10rem;
+}
+
+.description > div > h2{
+    color: #ffffff;
+    font-size: 2rem;
 }
 
 
