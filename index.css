@@ -225,7 +225,8 @@ a{
     font-size: 1.2rem;
     color: #ffffff;
     background: none;
-    margin: auto;
+    margin-top: 2rem;
+    margin-left: 2rem;
     
 }
 
@@ -239,8 +240,8 @@ a{
 }
 
 .icons > img{
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
 }
 
 .icons{
@@ -254,6 +255,7 @@ a{
 .rights > img{
     width: 1rem;
     height: 1rem;
+    margin-top: 0.5rem;
 }
 
 .rights{
@@ -263,6 +265,7 @@ a{
 }
 
 .rights > p{
+    margin-top: 1rem;
     font-family: "Inter", sans-serif;
 }
 
