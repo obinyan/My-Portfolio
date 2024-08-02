@@ -214,7 +214,7 @@ a{
 .sub-work-4{
     justify-content: center;
     margin-top: 2rem;
-    margin-left: 50rem;
+    margin-left: 40rem;
     background-color: #1e1e1e;
     width: 12rem;
     height: 3rem;
@@ -225,8 +225,7 @@ a{
     font-size: 1.2rem;
     color: #ffffff;
     background: none;
-    text-align: center;
-    align-content: center;
+    margin: auto;
     
 }
 
@@ -240,8 +239,8 @@ a{
 }
 
 .icons > img{
-    width: 5rem;
-    height: 5rem;
+    width: 3.5rem;
+    height: 3.5rem;
 }
 
 .icons{
