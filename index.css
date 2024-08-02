@@ -156,9 +156,11 @@ a{
 }
 
 .work > div > img{
+    width: 5rem;
+    height: 5rem;
     position: relative;
     top: 5rem;
-    right: 20rem;
+    left: 2rem;
 }
 
 .sub-work-1{
@@ -173,13 +175,14 @@ a{
 }
 
 .sub-work-1 > div > h3{
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-family: "Inter", sans-serif;
     text-align: center;
+    margin-left: 2rem;
 }
 
 .sub-work-2{
-    margin-top: 10rem;
+    margin-top: 5rem;
     display: flex;
     flex-direction: row;
     gap: 1rem;
@@ -200,6 +203,10 @@ a{
     margin: 3rem;
 }
 
+.sub-work-3 > div > img{
+    width: 25rem;
+    height: 25rem;
+}
 
 
 
