@@ -208,13 +208,13 @@ a{
 
 .sub-work-3 > div > img{
     width: 25rem;
-    height: 25rem;
+    height: 28rem;
 }
 
 .sub-work-4{
     justify-content: center;
     margin-top: 2rem;
-    margin-left: 40rem;
+    margin-left: 35rem;
     background-color: #1e1e1e;
     width: 12rem;
     height: 3rem;
@@ -248,7 +248,7 @@ a{
     display: flex;
     flex-direction: row;
     gap: 2rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     justify-content: center;
 }
 
