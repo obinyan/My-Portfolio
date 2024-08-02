@@ -142,6 +142,12 @@ a{
     font-family: "Inter", sans-serif;
 }
 
+.sub-about-2-b{
+    background-color: #d8d80b;
+    width: 10rem;
+    height: 2rem;
+}
+
 .sub-about-2-c{
     width: 35rem;
 }
@@ -156,7 +162,7 @@ a{
 .work{
     background-color: #ffffff;
     width: 100vw;
-    height: 290vh;
+    height: 285vh;
     color: #000000;
 }
 
@@ -164,7 +170,7 @@ a{
     width: 8rem;
     height: 8rem;
     position: relative;
-    top: 6rem;
+    top: 6.5rem;
     left: 47rem;
 }
 
@@ -185,6 +191,12 @@ a{
     text-align: center;
     margin-left: 3rem;
     margin-top: -1rem;
+}
+
+.sub-work-1-b{
+    background-color: #d8d80b;
+    width: 15rem;
+    height: 2rem;
 }
 
 .sub-work-2{
