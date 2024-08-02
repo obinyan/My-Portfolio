@@ -152,6 +152,7 @@ a{
 .work{
     background-color: #ffffff;
     width: 100vw;
+    height: 270vh;
     color: #000000;
 }
 
@@ -224,6 +225,26 @@ a{
     text-align: center;
 }
 
+/** The footer begins **/
+
+.line{
+    position: relative;
+    top: 1rem;
+    width: 80vw;
+    justify-content: center;
+}
+
+.icons > image{
+    width: 5rem;
+    height: 5rem;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 2rem;
+}
 
 
 
