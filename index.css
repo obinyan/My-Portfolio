@@ -160,7 +160,7 @@ a{
     height: 8rem;
     position: relative;
     top: 5rem;
-    left: 15rem;
+    left: 35rem;
 }
 
 .sub-work-1{
@@ -213,11 +213,15 @@ a{
     justify-content: center;
     margin-top: 2rem;
     background-color: #1e1e1e;
+    width: 5rem;
+
 }
 
 .sub-work-4 > button{
     font-size: 1.5rem;
     color: #ffffff;
+    background: none;
+    text-align: center;
 }
 
 
