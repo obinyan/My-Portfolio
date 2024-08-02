@@ -150,6 +150,7 @@ a{
 
 .sub-about-2-c{
     width: 35rem;
+    margin-top: 2rem;
 }
 
 .sub-about-2-c > p{
@@ -162,7 +163,7 @@ a{
 .work{
     background-color: #ffffff;
     width: 100vw;
-    height: 285vh;
+    height: 275vh;
     color: #000000;
 }
 
@@ -185,18 +186,18 @@ a{
     text-align: center;
 }
 
+.sub-work-1-a{
+    background-color: #d8d80b;
+    width: 12rem;
+    height: 1rem;
+}
+
 .sub-work-1 > div > h3{
     font-size: 1.5rem;
     font-family: "Inter", sans-serif;
     text-align: center;
     margin-left: 3rem;
     margin-top: -1rem;
-}
-
-.sub-work-1-b{
-    background-color: #d8d80b;
-    width: 15rem;
-    height: 2rem;
 }
 
 .sub-work-2{
