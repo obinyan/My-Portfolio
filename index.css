@@ -246,7 +246,16 @@ a{
     margin-top: 2rem;
 }
 
+.rights > img{
+    width: 2rem;
+    height: 2rem;
+}
 
+.rights{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
 
 
