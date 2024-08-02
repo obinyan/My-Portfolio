@@ -59,6 +59,10 @@ a{
     font-family: "Inter", sans-serif;
 }
 
+.link-button{
+    transition: 0.3s ease-in-out;
+}
+
 .description{
     margin-top: 20rem;
     margin-left: 12rem;
