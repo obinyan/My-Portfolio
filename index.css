@@ -214,7 +214,7 @@ a{
 .sub-work-4{
     justify-content: center;
     margin-top: 2rem;
-    margin-left: 37rem;
+    margin-left: 36rem;
     background-color: #1e1e1e;
     width: 12rem;
     height: 3rem;
@@ -248,14 +248,14 @@ a{
     display: flex;
     flex-direction: row;
     gap: 2rem;
-    margin-top: 1.5rem;
+    margin-top: 2.5rem;
     justify-content: center;
 }
 
 .rights > img{
     width: 1.2rem;
     height: 1.2rem;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
 .rights{
