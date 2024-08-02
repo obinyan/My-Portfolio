@@ -262,6 +262,10 @@ a{
     justify-content: center;
 }
 
+.rights > p{
+    font-family: "Inter", sans-serif;
+}
+
 
 
 
