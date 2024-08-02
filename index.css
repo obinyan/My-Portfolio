@@ -208,7 +208,7 @@ a{
 
 .sub-work-3 > div > img{
     width: 25rem;
-    height: 28rem;
+    height: 25rem;
 }
 
 .sub-work-4{
@@ -239,7 +239,7 @@ a{
     margin-left: 4rem;
 }
 
-.icons > img{
+.icons > a > img{
     width: 2rem;
     height: 2rem;
 }
