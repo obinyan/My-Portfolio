@@ -163,7 +163,7 @@ a{
 .work{
     background-color: #ffffff;
     width: 100vw;
-    height: 275vh;
+    height: 265vh;
     color: #000000;
 }
 
@@ -186,11 +186,7 @@ a{
     text-align: center;
 }
 
-.sub-work-1-a{
-    background-color: #d8d80b;
-    width: 12rem;
-    height: 1rem;
-}
+
 
 .sub-work-1 > div > h3{
     font-size: 1.5rem;
