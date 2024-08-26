@@ -48,9 +48,8 @@ a{
     background-color: #d9d9d9;
     width: 60rem;
     height: 10rem;
-    position: fixed;
+    position: sticky;
     top: 0;
-    right: 0;
     z-index: 1000;
 }
 
@@ -289,7 +288,11 @@ a{
 /** mobile view responsiveness **/
 @media only screen and (max-width: 600px) {
     header{
-        background-color: #1e1e1e;
+        background: none;
+    }
+
+    .heading > h1{
+        background: none;
     }
 } 
 
