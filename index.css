@@ -287,6 +287,9 @@ a{
 
 /** mobile view responsiveness **/
 @media only screen and (max-width: 600px) {
+    body{
+        display: inline-block;
+    }
     /** heading **/
     header{
         color: 100#000000;
