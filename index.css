@@ -71,6 +71,7 @@ a{
     margin-left: 12rem;
 }
 
+
 .sub-description-1 > h2{
     font-size: 2rem;
     font-weight: 100;
@@ -82,7 +83,6 @@ a{
     font-weight: bold;
     color: #ffffff;
 }
-
 .sub-description-3{
     margin-top: 1.5rem;
     background-color: #d8d80b;
@@ -315,6 +315,37 @@ a{
     .description{
         margin-left: 10px;
         margin-top: 20px;
+    }
+
+    .sub-description-1 > h2{
+        font-size: 30px;
+        font-weight: 100;
+        color: #ffffff;
+    }
+    
+    .sub-description-2 > h2{
+        font-size: 50px;
+        font-weight: bold;
+        color: #ffffff;
+    }
+    .sub-description-3{
+        margin-top: 20px;
+        margin-left: 30px;
+        background-color: #d8d80b;
+        width: 27rem;
+    }
+    
+    .sub-description-3 > h2{
+        color: #000000;
+        font-weight: 100;
+        text-align: center;
+        align-content: center;
+    }
+    
+    
+    .description > div > h2{
+        font-size: 30px;
+        font-family: "Inter", sans-serif;
     }
 } 
 
