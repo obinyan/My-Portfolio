@@ -294,7 +294,7 @@ a{
     header{
         color: 100#000000;
         width: 100vw;
-        height: auto;
+        height: 500px;
         background-color: #1e1e1e;
     }
 
@@ -318,7 +318,7 @@ a{
 
     .description{
         margin-left: 10px;
-        margin-top: -500px;
+        margin-top: -700px;
     }
 
     .sub-description-1 > h2{
@@ -358,7 +358,7 @@ a{
         color: #000000;
         display: inline-block;
         width: 100vw;
-        height: auto;
+        height: 800px;
     }
 
     .sub-about-1 > img{
@@ -367,12 +367,12 @@ a{
     }
 
     .sub-about-1{
-        margin-left: 15px;
-        margin-top: -20px;
+        margin-left: 10px;
+        margin-top: -40px;
     }
     
-    .sub-about-2-a, .sub-about-2-b{
-        margin-left: 35px;
+    .sub-about-2-a,.sub-about-2-b{
+        margin-left: 55px;
     }
     
     .sub-about-2-a > p{
@@ -395,8 +395,9 @@ a{
     }
     
     .sub-about-2-c{
-        width: 340px;
+        width: 350px;
         margin-top: 30px;
+        margin-left: 10px;
     }
     
     .sub-about-2-c > p{
@@ -419,6 +420,7 @@ a{
         width: 8rem;
         height: 8rem;
         margin-left: -500px;
+        margin-top: 500px;
         position: absolute;
     }
 
@@ -446,7 +448,7 @@ a{
         margin-left: 10px;
         display: flex;
         flex-direction: row;
-        gap: 28px;
+        gap: 12px;
         justify-content: center;
     }
     
@@ -458,7 +460,7 @@ a{
 
     .sub-work-3{
         display: inline-block;
-        margin-left: -20px;
+        margin-left: -10px;
     }
     
     .sub-work-3 > div > img{
@@ -468,7 +470,7 @@ a{
     .sub-work-4{
         justify-content: center;
         margin-top: 25px;
-        margin-left: 250px;
+        margin-left: 100px;
         background-color: #1e1e1e;
         width: 12rem;
         height: 3rem;
