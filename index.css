@@ -358,7 +358,7 @@ a{
         color: #000000;
         display: inline-block;
         width: 100vw;
-        height: 70rem;
+        height: 67rem;
     }
 
     .sub-about-1 > img{
@@ -415,8 +415,8 @@ a{
     .work > div > img{
         width: 8rem;
         height: 8rem;
-        margin-left: -50rem;
-        margin-top: 500px;
+        margin-left: -500px;
+        margin-top: 50rem;
         position: absolute;
     }
 
@@ -441,7 +441,7 @@ a{
 
     .sub-work-2{
         margin-top: 70px;
-        margin-left: 10px;
+        margin-left: 8px;
         display: flex;
         flex-direction: row;
         gap: 12px;
@@ -449,14 +449,14 @@ a{
     }
     
     .sub-work-2 > p{
-        font-size: 14px;
+        font-size: 16px;
         font-family: "Inter", sans-serif;
         font-weight: bold;
     }
 
     .sub-work-3{
         display: inline-block;
-        margin-left: 10px;
+        margin-left: 30px;
     }
     
     .sub-work-3 > div > img{
