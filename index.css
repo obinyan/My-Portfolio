@@ -418,7 +418,7 @@ a{
     .work > div > img{
         width: 8rem;
         height: 8rem;
-        margin-left: 50px;
+        margin-left: -200px;
     }
 
     .sub-work-1{
