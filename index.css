@@ -318,7 +318,7 @@ a{
 
     .description{
         margin-left: 10px;
-        margin-top: 20px;
+        margin-top: -100px;
     }
 
     .sub-description-1 > h2{
@@ -334,9 +334,9 @@ a{
     }
     .sub-description-3{
         margin-top: 20px;
-        margin-left: 30px;
+        margin-left: 20px;
         background-color: #d8d80b;
-        width: 27rem;
+        width: 350px;
     }
     
     .sub-description-3 > h2{
@@ -394,7 +394,7 @@ a{
     }
     
     .sub-about-2-c{
-        width: 400px;
+        width: 3700px;
         margin-top: 30px;
     }
     
