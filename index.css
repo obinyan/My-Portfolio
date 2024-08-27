@@ -422,7 +422,7 @@ a{
     }
 
     .sub-about-2-a,.sub-about-2-b{
-        margin-left: 80px;
+        margin-left: 60px;
     }
     
     .sub-about-2-a > p{
@@ -470,7 +470,7 @@ a{
         width: 8rem;
         height: 8rem;
         margin-left: -500px;
-        margin-top: 75rem;
+        margin-top: 80rem;
         position: absolute;
     }
 
