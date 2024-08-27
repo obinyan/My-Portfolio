@@ -372,7 +372,7 @@ a{
     }
 
     .sub-about-2-a,.sub-about-2-b{
-        margin-left: 100px;
+        margin-left: 80px;
     }
     
     .sub-about-2-a > p{
@@ -420,7 +420,7 @@ a{
         width: 8rem;
         height: 8rem;
         margin-left: -500px;
-        margin-top: 70rem;
+        margin-top: 75rem;
         position: absolute;
     }
 
@@ -453,7 +453,7 @@ a{
     }
     
     .sub-work-2 > a{
-        text-decoration: none;
+        color: #000000;
         font-size: 16px;
         font-family: "Inter", sans-serif;
         font-weight: bold;
