@@ -318,7 +318,7 @@ a{
 
     .description{
         margin-left: 10px;
-        margin-top: -100px;
+        margin-top: -500px;
     }
 
     .sub-description-1 > h2{
@@ -336,7 +336,7 @@ a{
         margin-top: 20px;
         margin-left: 20px;
         background-color: #d8d80b;
-        width: 350px;
+        width: 330px;
     }
     
     .sub-description-3 > h2{
@@ -371,7 +371,7 @@ a{
         margin-top: -20px;
     }
     
-    .sub-about-2{
+    .sub-about-2-a, .sub-about-2-b{
         margin-left: 35px;
     }
     
@@ -395,7 +395,7 @@ a{
     }
     
     .sub-about-2-c{
-        width: 370px;
+        width: 340px;
         margin-top: 30px;
     }
     
@@ -418,7 +418,8 @@ a{
     .work > div > img{
         width: 8rem;
         height: 8rem;
-        margin-left: -200px;
+        margin-left: -500px;
+        position: absolute;
     }
 
     .sub-work-1{
@@ -457,12 +458,30 @@ a{
 
     .sub-work-3{
         display: inline-block;
-        justify-content: center;
+        margin-left: -20px;
     }
     
     .sub-work-3 > div > img{
         width: 300px;
         height: 300px;
+    }
+    .sub-work-4{
+        justify-content: center;
+        margin-top: 25px;
+        margin-left: 250px;
+        background-color: #1e1e1e;
+        width: 12rem;
+        height: 3rem;
+        border-radius: 5rem;
+    }
+    
+    .sub-work-4 > button{
+        font-size: 1.2rem;
+        color: #ffffff;
+        background: none;
+        margin-top: 1rem;
+        margin-left: 2rem;
+        border: none;
     }
 } 
 
