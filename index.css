@@ -66,6 +66,10 @@ a{
     transition: 0.3s ease-in-out;
 }
 
+.dropdown{
+    display: none;
+}
+
 .description{
     margin-top: 20rem;
     margin-left: 12rem;
@@ -314,6 +318,52 @@ a{
 
     .nav-links{
         display: none;
+    }
+
+    /** the menu button **/
+    .dropdown{
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content{
+        display: none;
+        position: absolute;
+        margin-left: -100px;
+        margin-top: -1opx;
+        background-color: #d9d9d9;
+        min-width: 190px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content > a{
+        color: #000000;
+        padding: 10px 10px;
+        text-decoration: none;
+        display: block;
+        font-weight: 100;
+    }
+
+    .dropdown-content > a:hover{
+        background-color: gray;
+    }
+
+    .dropdown:hover .dropdown-content{
+        display: block;
+    }
+
+    .dropbtn{
+        padding: 16px;
+        font-size: 1rem;
+        font-weight: 100;
+        border: none;
+        cursor: pointer;
+    }
+
+    .dropbtn > img{
+        width: 80px;
+        height: 80px;
     }
 
     .description{
