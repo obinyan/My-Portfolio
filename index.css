@@ -223,7 +223,7 @@ a{
     grid-template-rows: repeat(3, 1fr);
     grid-gap: 2rem;
     justify-content: center;
-    margin: 3rem;
+    /**margin: 3rem;**/
 }
 
 .sub-work-3 > div > img{
