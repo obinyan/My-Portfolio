@@ -321,7 +321,7 @@ a{
     }
 
     /** the menu button **/
-    .dropdown{
+    /**.dropdown{
         position: relative;
         display: inline-block;
     }
@@ -364,7 +364,7 @@ a{
     .dropbtn > img{
         width: 80px;
         height: 80px;
-    }
+    }**/
 
     .description{
         margin-left: 10px;
