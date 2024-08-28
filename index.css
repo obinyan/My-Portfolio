@@ -290,12 +290,12 @@ a{
 }
 
 /** mobile view responsiveness **/
-/**@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     body{
         display: inline-block;
     }
     /** heading **/
-    /**header{
+    header{
         color: 100#000000;
         width: 100vw;
         height: 350px;
@@ -366,7 +366,7 @@ a{
         height: 80px;
     }**/
 
-    /**.description{
+    .description{
         margin-left: 10px;
         margin-top: -700px;
     }
@@ -403,7 +403,7 @@ a{
     }
 
     /** section-1 (about) **/
-    /**.about{
+    .about{
         background-color: #d9d9d9;
         color: #000000;
         display: inline-block;
@@ -458,7 +458,7 @@ a{
     
 
     /** section-2 (work) **/
-    /**.work{
+    .work{
         background-color: #ffffff;
         width: 100vw;
         height: auto;
@@ -512,6 +512,7 @@ a{
     .sub-work-3{
         display: inline-block;
         margin-left: 30px;
+        margin-top: 10px;
     }
     
     .sub-work-3 > div > img{
