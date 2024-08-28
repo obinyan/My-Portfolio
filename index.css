@@ -471,7 +471,7 @@ a{
         height: 8rem;
         margin-left: -500px;
         margin-top: 82rem;
-        position: absolute;
+        position: relative;
     }
 
     .sub-work-1{
@@ -512,7 +512,7 @@ a{
     .sub-work-3{
         display: inline-block;
         margin-left: 30px;
-        margin-top: 10px;
+        margin-top: 20px;
     }
     
     .sub-work-3 > div > img{
