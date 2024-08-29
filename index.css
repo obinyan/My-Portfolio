@@ -471,7 +471,7 @@ a{
         height: 8rem;
         margin-left: -500px;
         margin-top: 82rem;
-        position: relative;
+        position: absolute;
     }
 
     .sub-work-1{
