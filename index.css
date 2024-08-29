@@ -66,9 +66,9 @@ a{
     transition: 0.3s ease-in-out;
 }
 
-nav{
+/**nav{
     display: none;
-}
+}**/
 
 .sidebar{
     display: none;
