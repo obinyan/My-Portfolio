@@ -66,9 +66,9 @@ a{
     transition: 0.3s ease-in-out;
 }
 
-.dropdown{
+/**.sidebar{
     display: none;
-}
+}**/
 
 .description{
     margin-top: 20rem;
@@ -321,50 +321,29 @@ a{
     }
 
     /** the menu button **/
-    /**.dropdown{
-        position: relative;
-        display: inline-block;
+    .sidebar{
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 100vh;
+        width: 100px;
+        z-index: 999;
+        background-color: #ffffff1e;
+        backdrop-filter: blur(15px);
+        box-shadow: -10px 0px 10px #000001;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
     }
-
-    .dropdown-content{
-        display: none;
-        position: absolute;
-        margin-left: -100px;
-        margin-top: -1opx;
-        background-color: #d9d9d9;
-        min-width: 190px;
-        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-        z-index: 1;
+    
+    .sidebar li{
+        width: 100%;
     }
-
-    .dropdown-content > a{
-        color: #000000;
-        padding: 10px 10px;
-        text-decoration: none;
-        display: block;
-        font-weight: 100;
+    
+    .sidebar a{
+        width: 100%;
     }
-
-    .dropdown-content > a:hover{
-        background-color: gray;
-    }
-
-    .dropdown:hover .dropdown-content{
-        display: block;
-    }
-
-    .dropbtn{
-        padding: 16px;
-        font-size: 1rem;
-        font-weight: 100;
-        border: none;
-        cursor: pointer;
-    }
-
-    .dropbtn > img{
-        width: 80px;
-        height: 80px;
-    }**/
 
     .description{
         margin-left: 10px;
