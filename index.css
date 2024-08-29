@@ -297,7 +297,7 @@ a{
     /** heading **/
     header{
         color: 100#000000;
-        width: 600px;
+        width: 400px;
         height: 350px;
         background-color: #1e1e1e;
     }
@@ -407,7 +407,7 @@ a{
         background-color: #d9d9d9;
         color: #000000;
         display: inline-block;
-        width: 600px;
+        width: 400px;
         height: 67rem;
     }
 
@@ -460,7 +460,7 @@ a{
     /** section-2 (work) **/
     .work{
         background-color: #ffffff;
-        width: 600px;
+        width: 400px;
         height: auto;
         color: #000000;
     }
