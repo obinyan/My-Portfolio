@@ -366,6 +366,8 @@ nav a:hover{
     nav a{
         display: none;
         position: absolute;
+        width: 50px;
+        margin: -20px;
     }
 
     .description{
