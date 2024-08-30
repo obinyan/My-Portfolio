@@ -55,6 +55,11 @@ nav ul{
     align-items: center;
 }
 
+nav li{
+    height: 50px;
+    
+}
+
 nav a{
     color: #000000;
     font-size: 1.7rem;
@@ -63,7 +68,7 @@ nav a{
     align-content: center;
     font-family: "Inter", sans-serif;
     height: 100%;
-    padding: 0 50px;
+    padding: 0 10px;
     text-decoration: none;
 }
 
@@ -86,7 +91,7 @@ nav a:hover{
     transition: 0.3s ease-in-out;
 }
 
-.sidebar > ul{
+.sidebar{
     position: fixed;
     top: 0;
     right: 0;
@@ -102,11 +107,11 @@ nav a:hover{
     justify-content: flex-start;
 }
 
-.sidebar > ul > li{
+.sidebar  li{
     width: 100%;
 }
 
-.sidebar > ul > li > a{
+.sidebar a{
     width: 100%;
     color: #000000;
 }
