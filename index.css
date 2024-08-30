@@ -105,9 +105,9 @@ nav a:hover{
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    /**align-items: flex-start;**/
+    align-items: flex-start;
     justify-content: flex-start;
-    margin-left: -95px;
+    margin-left: -80px;
     /**margin: 20px;**/
     background: none;
 
@@ -120,8 +120,8 @@ nav a:hover{
 }
 
 .sidebar  li{
-    width: 100%;
-    margin-left: 30px;
+    /**width: 100%;**/
+    margin-left: 50px;
 }
 
 /**.sidebar a{
