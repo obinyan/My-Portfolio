@@ -104,6 +104,7 @@ nav a:hover{
 
 .sidebar > ul{
     display: block;
+    margin-left: -100px;
 }
 
 .sidebar  li{
