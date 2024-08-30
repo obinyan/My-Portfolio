@@ -372,9 +372,12 @@ nav a:hover{
     /** the menu button **/
     nav a{
         display: none;
+    }
+
+    nav{
         position: absolute;
         width: 30px;
-        margin: -5px;
+        margin: -10px;
     }
 
     .description{
