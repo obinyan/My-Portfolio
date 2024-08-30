@@ -89,7 +89,7 @@ nav a:hover{
 }
 
 .sidebar{
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     height: 100vh;
@@ -362,6 +362,7 @@ nav a:hover{
     /** the menu button **/
     nav a{
         display: none;
+        position: ;
     }
 
     .description{
