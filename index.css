@@ -95,10 +95,10 @@ nav a:hover{
     height: 100vh;
     width: 400px;
     z-index: 999;
-    background-color: #494947;
+    background-color: #ffffff1e;
     backdrop-filter: blur(15px);
     box-shadow: -10px 0px 10px #000001;
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
