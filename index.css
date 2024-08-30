@@ -359,11 +359,10 @@ nav a:hover{
         background: none;
     }
 
-    
-   
-
     /** the menu button **/
-    
+    nav a{
+        display: none;
+    }
 
     .description{
         margin-left: 10px;
