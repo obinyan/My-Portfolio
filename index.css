@@ -93,7 +93,7 @@ nav a:hover{
     top: 0;
     right: 0;
     height: 100vh;
-    width: 400px;
+    width: 300px;
     z-index: 999;
     background-color: #ffffff1e;
     backdrop-filter: blur(10px);
@@ -107,11 +107,11 @@ nav a:hover{
     margin-left: -75px;
 }
 
-/**.sidebar  li{
+.sidebar  li{
     width: 100%;
 }
 
-.sidebar a{
+/**.sidebar a{
     width: 100%;
     
 }**/
@@ -366,8 +366,8 @@ nav a:hover{
     nav a{
         display: none;
         position: absolute;
-        width: 50px;
-        margin: -20px;
+        width: 30px;
+        margin: -5px;
     }
 
     .description{
