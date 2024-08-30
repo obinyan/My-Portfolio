@@ -104,17 +104,17 @@ nav a:hover{
 
 .sidebar > ul{
     display: block;
-    margin-left: -100px;
+    margin-left: -75px;
 }
 
-.sidebar  li{
+/**.sidebar  li{
     width: 100%;
 }
 
 .sidebar a{
     width: 100%;
     
-}
+}**/
 
 .description{
     margin-top: 20rem;
