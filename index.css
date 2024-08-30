@@ -50,7 +50,7 @@ nav ul{
     height: 10rem;
     position: sticky;
     top: 0;
-    z-index: 1000;
+    /**z-index: 1000;**/
 }
 
 nav a{
@@ -89,7 +89,7 @@ nav a:hover{
     top: 0;
     right: 0;
     height: 100vh;
-    width: 200px;
+    width: 400px;
     z-index: 999;
     background-color: #ffffff1e;
     backdrop-filter: blur(15px);
