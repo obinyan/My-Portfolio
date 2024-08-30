@@ -63,7 +63,7 @@ nav a{
     align-content: center;
     font-family: "Inter", sans-serif;
     height: 100%;
-    
+    padding: 0 50px;
     text-decoration: none;
 }
 
@@ -102,12 +102,13 @@ nav a:hover{
     justify-content: flex-start;
 }
 
-.sidebar li{
+.sidebar > ul > li{
     width: 100%;
 }
 
-.sidebar a{
+.sidebar > ul > li > a{
     width: 100%;
+    color: #000000;
 }
 
 .description{
