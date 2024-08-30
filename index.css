@@ -44,7 +44,7 @@ nav ul{
     flex-direction: row;
     gap: 1rem;
     margin-top: -52rem;
-    margin-left: 25.4rem;
+    margin-left: 25.5rem;
     background-color: #d9d9d9;
     width: 60rem;
     height: 10rem;
@@ -60,7 +60,7 @@ nav ul{
 nav a{
     color: #000000;
     font-size: 1.7rem;
-    margin-left: 3rem;
+    margin-left: 4rem;
     text-align: center;
     align-content: center;
     font-family: "Inter", sans-serif;
@@ -88,7 +88,7 @@ nav a:hover{
     transition: 0.3s ease-in-out;
 }
 
-.sidebar{
+/**.sidebar{
     position: fixed;
     top: 0;
     right: 0;
@@ -96,7 +96,7 @@ nav a:hover{
     width: 400px;
     z-index: 999;
     background-color: #ffffff1e;
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
     box-shadow: -10px 0px 10px #000001;
     display: none;
     flex-direction: column;
@@ -110,8 +110,8 @@ nav a:hover{
 
 .sidebar a{
     width: 100%;
-    color: #000000;
-}
+    
+}**/
 
 .description{
     margin-top: 20rem;
