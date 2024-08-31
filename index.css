@@ -117,18 +117,19 @@ nav a:hover{
 .sidebar > ul > li > svg{
     /**width: 50px;**/
     height: 50px;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 
 .sidebar  li{
     /**width: 100%;**/
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
-/**.sidebar a{
+.sidebar a{
     width: 100%;
-    
-}**/
+    align-content: center;
+
+}
 
 .description{
     margin-top: 20rem;
