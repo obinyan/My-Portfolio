@@ -386,12 +386,14 @@ nav a:hover{
 
     nav ul{
         background: none;
+        height: 0px;
+        width: 100px;
+        margin-left: -100px;
     }
 
     nav svg{
         margin-left: -15px;
-        color: #ffffff;
-        
+        fill: #ffffff;
     }
 
     nav{
