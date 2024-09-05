@@ -39,6 +39,7 @@ a{
     
 }
 
+/** the header links with a menu button **/
 nav ul{
     display: flex;
     /**flex-direction: row;**/
@@ -87,6 +88,7 @@ nav a:hover{
     transition: 0.3s ease-in-out;
 }
 
+/** the menu button **/
 .sidebar{
     position: absolute;
     top: 0;
@@ -382,11 +384,19 @@ nav a:hover{
         display: none;
     }
 
-    nav{
+    nav ul{
+        background: none;
+    }
+
+    nav svg{
+        margin-left: -15px;
+    }
+
+    /*nav{
         position: absolute;
         width: 30px;
         margin: -10px;
-    }
+    }**/
 
     .description{
         margin-left: 10px;
