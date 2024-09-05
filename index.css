@@ -390,13 +390,15 @@ nav a:hover{
 
     nav svg{
         margin-left: -15px;
+        color: #ffffff;
+        
     }
 
-    /*nav{
+    nav{
         position: absolute;
         width: 30px;
         margin: -10px;
-    }**/
+    }
 
     .description{
         margin-left: 10px;
