@@ -387,13 +387,13 @@ nav a:hover{
     nav ul{
         background: none;
         height: 0px;
-        margin-top: 70px;
-        width: 5px;
+        margin-top: 50px;
+        width: 10px;
         /**margin-left: -100px;**/
     }
 
     nav svg{
-        margin-left: -60px;
+        margin-left: -50px;
         fill: #ffffff;
     }
 
