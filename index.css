@@ -393,7 +393,7 @@ nav a:hover{
     }
 
     nav svg{
-        margin-left: -50px;
+        /**margin-left: -40px;**/
         fill: #ffffff;
     }
 
