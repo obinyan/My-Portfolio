@@ -387,9 +387,9 @@ nav a:hover{
     nav ul{
         background: none;
         /**height: 0px;**/
-        margin-top: -10px;
+        margin-top: -53rem;
         width: 50px;
-        margin-left: 100px;
+        margin-left: 200px;
     }
 
     nav svg{
