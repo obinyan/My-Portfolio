@@ -385,11 +385,11 @@ nav a:hover{
     }
 
     nav ul{
-        /**background: none;
-        height: 0px;
+        background: none;
+        /**height: 0px;
         margin-top: 50px;**/
         width: 50px;
-        margin-left: -30px;
+        margin-left: -5px;
     }
 
     nav svg{
