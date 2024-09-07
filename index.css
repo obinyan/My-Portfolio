@@ -360,7 +360,7 @@ nav a:hover{
     /** heading **/
     header{
         color: 100#000000;
-        width: 400px;
+        width: 380px;
         height: 350px;
         background-color: #1e1e1e;
     }
@@ -387,9 +387,9 @@ nav a:hover{
     nav ul{
         background: none;
         /**height: 0px;**/
-        margin-top: -53rem;
+        margin-top: -55rem;
         width: 50px;
-        margin-left: 200px;
+        margin-left: 300px;
     }
 
     nav svg{
