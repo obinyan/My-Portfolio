@@ -404,6 +404,11 @@ nav a:hover{
         /**margin: -10px;**/
     }
 
+    .sidebar a{
+        display: flex;
+        flex-direction: column;
+    }
+
     .description{
         margin-left: 10px;
         margin-top: -700px;
