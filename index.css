@@ -407,7 +407,7 @@ nav a:hover{
     .sidebar a{
         display: flex;
         flex-direction: column;
-        margin-left: -5px;
+        margin-left: -1px;
     }
 
     .description{
