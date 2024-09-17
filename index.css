@@ -302,7 +302,7 @@ nav a:hover{
     width: 12rem;
     height: 3rem;
     border-radius: 5rem;
-    filter: blur(80%);
+    
 }
 
 .sub-work-4 > button{
@@ -312,6 +312,7 @@ nav a:hover{
     margin-top: 1rem;
     margin-left: 2rem;
     border: none;
+    filter: blur(80%);
 }
 
 /** the thrid section heading **/
@@ -333,7 +334,7 @@ nav a:hover{
 .collaborate > h2{
     font-size: 3rem;
     text-align: center;
-    margin-top: 1rem;
+    margin-top: 6rem;
     font-weight: 100;
 }
 
