@@ -302,7 +302,7 @@ nav a:hover{
     width: 12rem;
     height: 3rem;
     border-radius: 5rem;
-    filter: blur(50%);
+    filter: blur(80%);
 }
 
 .sub-work-4 > button{
@@ -326,20 +326,20 @@ nav a:hover{
     font-size: 1.5rem;
     text-align: center;
     position: relative;
-    top: 4rem;
+    top: 5rem;
     font-weight: 100;
 }
 
 .collaborate > h2{
     font-size: 3rem;
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 1rem;
     font-weight: 100;
 }
 
 .collaborate > p{
     margin-left: 37.5rem;
-    margin-top: 4rem;
+    margin-top: 5rem;
     text-align: center;
     align-content: center;
     background-color: #b7b3b3;
