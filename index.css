@@ -302,7 +302,7 @@ nav a:hover{
     width: 12rem;
     height: 3rem;
     border-radius: 5rem;
-    opacity: 0.5;
+    opacity: 0.3;
 }
 
 .sub-work-4 > button{
@@ -312,7 +312,7 @@ nav a:hover{
     margin-top: 1rem;
     margin-left: 2rem;
     border: none;
-    opacity: 0.5;
+    opacity: 0.3;
 }
 
 /** the thrid section heading **/
